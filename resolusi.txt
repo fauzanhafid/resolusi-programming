@@ -1,10 +1,13 @@
 Kumpulan resolusi belajar
-- Paham mengenai Web Development secara keseluruhan
-- Bantu orang dengan teknologi
-- Bantu orang yang ingin masuk teknologi
-- Melatih berpikir kritis
-- Melatih berkomunikasi
-- Melatih kepercayaan diri
-- Public Speaking
-- Kemudahan keuangan
-- Meningkatkan kualitas diri
+# Paham Web Development secara keseluruhan
+  - Frontend
+  - Backend
+  - Cyberscurity
+# Bantu orang dengan teknologi
+# Bantu orang yang ingin masuk teknologi
+# Melatih berpikir kritis
+# Melatih berkomunikasi
+# Melatih kepercayaan diri
+# Public Speaking
+# Kemudahan keuangan
+# Meningkatkan kualitas diri
