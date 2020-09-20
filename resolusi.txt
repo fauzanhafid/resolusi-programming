@@ -1,6 +1,8 @@
 Kumpulan resolusi belajar
 # Paham Web Development secara keseluruhan
   - Frontend
+    > 17-23 september 2020 paham dasar html, css, dan js + 1 projek tampilan website
+    > 24-30 september 2020 html5, css3, js modern(ES6) + 1 projek tampilan website responsive & interaktif
   - Backend
   - Cyberscurity
 # Bantu orang dengan teknologi
