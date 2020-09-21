@@ -6,6 +6,10 @@ Kumpulan resolusi belajar
   - Backend
   - Cyberscurity
 # Bantu orang dengan teknologi
+  - Membuat aplikasi yang bermanfaaat sekalipun non profit
+  - Membuat aplikasi yang memudahkan kegiatan sekelompok orang yang dulunya susah untuk dilakukan dg teknologi 
+  - Aplikasi yang memudahkan untuk beribadah dan bertukar informasi
+  - Membantu keluarga, teman, orang terderkat yang mulai mengembangkan bisnis
 # Bantu orang yang ingin masuk teknologi
 # Melatih berpikir kritis
 # Melatih berkomunikasi
